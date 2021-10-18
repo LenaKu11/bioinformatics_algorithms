@@ -4,11 +4,7 @@
 ####################################################################################################
 ####################################################################################################
 
-# Write a program that calculates the GC-skew of a genome. Plot the GC-skew                         #
-# for the halomonas genome. Discuss the generated plots. Can you determine the                      #
-# positions of the minimum and maximum in these plots? Can you identify an                          #
-# origin of replication?                                                                            #
-# Also plot the GT-skew. Do you see the same pattern as with the GC-skew?                           #
+# Write a program that calculates the GC-skew of a genome. Plot the GC-skew.                         #
 
 from Bio import SeqIO
 import matplotlib.pyplot as plt
